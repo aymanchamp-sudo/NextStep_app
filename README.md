@@ -55,3 +55,23 @@ NextStep_app/
 ├── metro.config.js # Metro bundler configuration
 ├── .gitignore
 └── README.md
+
+## 📸 Screenshots
+
+> Screenshots taken from the live version of the app.
+
+### Home Screen
+![Home Screen](screenshots/homepage.png)
+
+### Create Goals
+![Create Goals](screenshots/make%20goals.png)
+
+### Select Time & Energy
+![Select Time and Energy](screenshots/select%20time%20and%20energy.png)
+
+### Task Suggestions
+![Give Tasks](screenshots/give%20tasks.png)
+
+### Final Recommended Action
+![Get the Task](screenshots/get%20the%20task.png)
+
