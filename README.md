@@ -36,4 +36,22 @@ NextStep removes decision paralysis by suggesting **one meaningful next action**
 ---
 
 ## 📦 Project Structure
-
+NextStep_app/
+├── app/ # App screens and navigation
+├── components/ # Reusable UI components
+├── assets/ # Images, icons, fonts
+├── constants/ # App-wide constants
+├── lib/ # Utility functions
+├── shared/ # Shared logic
+├── server/ # Backend / API logic
+├── scripts/ # Utility scripts
+├── patches/ # Dependency patches
+├── screenshots/ # App screenshots for README
+│
+├── app.json # Expo configuration
+├── package.json # Dependencies and scripts
+├── tsconfig.json # TypeScript configuration
+├── babel.config.js # Babel configuration
+├── metro.config.js # Metro bundler configuration
+├── .gitignore
+└── README.md
