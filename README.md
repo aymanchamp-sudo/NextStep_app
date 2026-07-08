@@ -100,7 +100,8 @@ AI-powered personalization
 🙌 Author
 
 Ayman Shaikh
-B.Tech – Computer Science & Business Systems
+B.Tech – CSBS
+
 
 This is my first published app, built to learn, experiment, and solve a real productivity problem.
 
